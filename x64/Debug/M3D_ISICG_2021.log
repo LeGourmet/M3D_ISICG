@@ -1,0 +1,50 @@
+﻿  baseCamera.cpp
+  freeflyCamera.cpp
+  imgui_impl_opengl3.cpp
+  imgui_impl_sdl.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  application.cpp
+  triangle_mesh.cpp
+C:\Users\Blanchard\Desktop\M3D_ISICG\M3D_ISICG\src\lab_works\common\models\triangle_mesh.cpp(44,69): warning C4267: 'argument' : conversion de 'size_t' en 'GLsizei', perte possible de données
+  triangle_mesh_model.cpp
+C:\Users\Blanchard\Desktop\M3D_ISICG\M3D_ISICG\src\lab_works\common\models\triangle_mesh_model.cpp(315,26): warning C4244: 'initialisation' : conversion de 'double' en 'unsigned int', perte possible de données
+  lab_work_1.cpp
+  lab_work_manager.cpp
+  lab_work_2.cpp
+C:\Users\Blanchard\Desktop\M3D_ISICG\M3D_ISICG\src\lab_works\lab_work_2\lab_work_2.cpp(122,69): warning C4267: 'argument' : conversion de 'size_t' en 'GLsizei', perte possible de données
+C:\Users\Blanchard\Desktop\M3D_ISICG\M3D_ISICG\src\lab_works\lab_work_2\lab_work_2.cpp(154,27): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Blanchard\Desktop\M3D_ISICG\M3D_ISICG\src\lab_works\lab_work_2\lab_work_2.cpp(156,40): warning C4267: 'argument' : conversion de 'size_t' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Blanchard\Desktop\M3D_ISICG\M3D_ISICG\src\lab_works\lab_work_2\lab_work_2.cpp(161,38): warning C4267: 'argument' : conversion de 'size_t' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Blanchard\Desktop\M3D_ISICG\M3D_ISICG\src\lab_works\lab_work_2\lab_work_2.cpp(166,39): warning C4267: 'argument' : conversion de 'size_t' en '_Ty', perte possible de données
+          with
+          [
+              _Ty=int
+          ]
+  lab_work_3.cpp
+C:\Users\Blanchard\Desktop\M3D_ISICG\M3D_ISICG\src\lab_works\lab_work_3\lab_work_3.cpp(57,75): warning C4267: 'argument' : conversion de 'size_t' en 'GLsizei', perte possible de données
+C:\Users\Blanchard\Desktop\M3D_ISICG\M3D_ISICG\src\lab_works\lab_work_3\lab_work_3.cpp(62,74): warning C4267: 'argument' : conversion de 'size_t' en 'GLsizei', perte possible de données
+  lab_work_4.cpp
+  lab_work_5.cpp
+  main.cpp
+  image.cpp
+  trackballCamera.cpp
+  Génération de code en cours...
+  gl3w.c
+  M3D_ISICG_2021.vcxproj -> C:\Users\Blanchard\Desktop\M3D_ISICG\M3D_ISICG\x64\Debug\M3D_ISICG_2021.exe
+  C:\Users\Blanchard\Desktop\M3D_ISICG\M3D_ISICG\lib\SDL2\lib\x64\SDL2.dll
+  1 fichier(s) copié(s)
+  C:\Users\Blanchard\Desktop\M3D_ISICG\M3D_ISICG\lib\assimp\assimp-vc142-mt.dll
+  1 fichier(s) copié(s)
+  C:\Users\Blanchard\Desktop\M3D_ISICG\M3D_ISICG\lib\zlib1.dll
+  1 fichier(s) copié(s)
